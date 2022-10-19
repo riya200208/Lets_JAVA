@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "262968667492",
+    "firebase_url": "https://ifsc-docs-default-rtdb.firebaseio.com",
+    "project_id": "ifsc-docs",
+    "storage_bucket": "ifsc-docs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262968667492:android:ee60a8020ca3bd98181e71",
+        "android_client_info": {
+          "package_name": "com.kaushikrana.myapplicationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262968667492-j2j07l5qhrn65jgqrkldr9471nu410hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3nYfNFVeKZS1uaxOuxV_ukO-b5yt1Sts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262968667492-j2j07l5qhrn65jgqrkldr9471nu410hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
