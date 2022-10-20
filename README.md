@@ -12,10 +12,5 @@
 
   <h3>Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest</h3>
 
- # Contributors 😄
- ## HAPPY HACKING!!🥳
- <a href="https://github.com/Srishti44-g/HACTOBERFEST-2022-For-all-Begineers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Srishti44-g/HACTOBERFEST-2022-For-all-Begineers" />
-</a>
 
 
